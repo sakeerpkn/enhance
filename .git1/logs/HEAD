@@ -1,0 +1,136 @@
+0000000000000000000000000000000000000000 a0da07f755c3a5979a2abd7f12bb7f108ee37aa8 sakeer <sakeer@syscontech.in> 1520604992 +0530	clone: from https://sakeer_foc@bitbucket.org/focaloid/nhance-apis.git
+a0da07f755c3a5979a2abd7f12bb7f108ee37aa8 bc3152eef7d21fbb1dc6defcc5b3c9940a4a7c01 sakeer <sakeer@syscontech.in> 1520661635 +0530	commit: baggage app change from id to qr
+bc3152eef7d21fbb1dc6defcc5b3c9940a4a7c01 d3a842183b1ea4561ca6a8d0c227cd62c5914d35 sakeer <sakeer@syscontech.in> 1520661786 +0530	pull origin master: Fast-forward
+d3a842183b1ea4561ca6a8d0c227cd62c5914d35 dc9f0e56a746843cd0f5f8499ac696f69bc3110a sakeer <sakeer@syscontech.in> 1520663507 +0530	commit: baggage app change from id to qr
+dc9f0e56a746843cd0f5f8499ac696f69bc3110a c8017e30dd00f49826486114b80808c43ad4638c sakeer <sakeer@syscontech.in> 1520665414 +0530	commit: zone manager set
+c8017e30dd00f49826486114b80808c43ad4638c d00b90e0ad711cde507c8df8424b5877a0f8e2b2 sakeer <sakeer@syscontech.in> 1520665447 +0530	pull origin master: Merge made by the 'recursive' strategy.
+d00b90e0ad711cde507c8df8424b5877a0f8e2b2 30461585607b0c7f83650dda61c811273e52e2b6 sakeer <sakeer@syscontech.in> 1520667539 +0530	commit: unique id
+30461585607b0c7f83650dda61c811273e52e2b6 e48c276c02a1e8a0df90c1a9bd3c9cd6f31c59ae sakeer <sakeer@syscontech.in> 1520669084 +0530	commit: status code issue
+e48c276c02a1e8a0df90c1a9bd3c9cd6f31c59ae af39a4303a2ab84891c6d5b2c0bcf65ca74dfa7b sakeer <sakeer@syscontech.in> 1520669734 +0530	commit: zone info
+af39a4303a2ab84891c6d5b2c0bcf65ca74dfa7b a09dc3c57ae808e26f4983219c0c22dea4f799d3 sakeer <sakeer@syscontech.in> 1520677364 +0530	pull origin master: Fast-forward
+a09dc3c57ae808e26f4983219c0c22dea4f799d3 4e650d8e4accea3c0905eed47f6dd82338713f08 sakeer <sakeer@syscontech.in> 1520680615 +0530	commit: bag at zone
+4e650d8e4accea3c0905eed47f6dd82338713f08 319356b0d3b4a79f9d5c22cf6fd8a0c10e1f5658 sakeer <sakeer@syscontech.in> 1520680643 +0530	pull origin master: Merge made by the 'recursive' strategy.
+319356b0d3b4a79f9d5c22cf6fd8a0c10e1f5658 1e2ac5de8d73860c0879f6df0b57f6e0219421e4 sakeer <sakeer@syscontech.in> 1520742703 +0530	pull origin master: Fast-forward
+1e2ac5de8d73860c0879f6df0b57f6e0219421e4 4e52fc626e9e8d397a75c3773664fabff339037d sakeer <sakeer@syscontech.in> 1520747628 +0530	commit: zone to zone manager assign
+4e52fc626e9e8d397a75c3773664fabff339037d b03a3a553d89d295766deea262baa4ecb2dbf37b sakeer <sakeer@syscontech.in> 1520749636 +0530	commit: bag to shelf
+b03a3a553d89d295766deea262baa4ecb2dbf37b 2cbf98eb57e0fec8adce2d39ed7dfe8ac4abf4a8 sakeer <sakeer@syscontech.in> 1520752061 +0530	commit: bag history
+2cbf98eb57e0fec8adce2d39ed7dfe8ac4abf4a8 8e2daf2ab5fed2440dd2224b91b28517d8558fc4 sakeer <sakeer@syscontech.in> 1520756278 +0530	commit: bag to shelf
+8e2daf2ab5fed2440dd2224b91b28517d8558fc4 7958ffac48b72d594e55a2c42ac917abbbf0c2dd sakeer <sakeer@syscontech.in> 1520759855 +0530	commit: handler to zone
+7958ffac48b72d594e55a2c42ac917abbbf0c2dd 5e1c5c10fe9598bc847999db82805ef2fb36e07d sakeer <sakeer@syscontech.in> 1520760049 +0530	commit: handler to zone
+5e1c5c10fe9598bc847999db82805ef2fb36e07d afaf39dfc28c814b7bbdbbc6ad3b39ad85ec9316 sakeer <sakeer@syscontech.in> 1520762217 +0530	commit: bag to shelf multiple
+afaf39dfc28c814b7bbdbbc6ad3b39ad85ec9316 cc0b43e5919b8140ca1584e112b62f154e6572e6 sakeer <sakeer@syscontech.in> 1520836040 +0530	pull origin master: Fast-forward
+cc0b43e5919b8140ca1584e112b62f154e6572e6 35747b73475dcde9e63c98586b15ba603b09b3e7 sakeer <sakeer@syscontech.in> 1520836273 +0530	commit: baggage mobile number is accepting
+35747b73475dcde9e63c98586b15ba603b09b3e7 94898e854ac909f32b06ec8392d84d87080f0d74 sakeer <sakeer@syscontech.in> 1520836985 +0530	commit: baggage mobile number is accepting
+94898e854ac909f32b06ec8392d84d87080f0d74 d27905337935f6dadd7580303183e8b6458dafd9 sakeer <sakeer@syscontech.in> 1520837064 +0530	commit: baggage mobile number is accepting
+d27905337935f6dadd7580303183e8b6458dafd9 8bd66c98f16043324a1b40937d1940a4608397c3 sakeer <sakeer@syscontech.in> 1520844078 +0530	commit: baggage mobile number is accepting
+8bd66c98f16043324a1b40937d1940a4608397c3 6806b50365c0b65050fb2e513e155da132a3c4c7 sakeer <sakeer@syscontech.in> 1520845916 +0530	commit: bag count based handler and customer id
+6806b50365c0b65050fb2e513e155da132a3c4c7 66fcf809bcf246b41c1487b32b07d70e7317b76b sakeer <sakeer@syscontech.in> 1520847559 +0530	commit: bag count
+66fcf809bcf246b41c1487b32b07d70e7317b76b 34d5684190eeac79e7fede9def006e9cb32b6c1f sakeer <sakeer@syscontech.in> 1520848546 +0530	commit: time correct
+34d5684190eeac79e7fede9def006e9cb32b6c1f ec8a03f8ad15cddb77589f0b7b03bb8229b630fa sakeer <sakeer@syscontech.in> 1520851301 +0530	commit: bag to zone
+ec8a03f8ad15cddb77589f0b7b03bb8229b630fa b4c4fcce6cd7107f5c52f77dfd9464088d4a292a sakeer <sakeer@syscontech.in> 1520855046 +0530	commit: baggage create serailizer
+b4c4fcce6cd7107f5c52f77dfd9464088d4a292a 7d22d12a697aa1fce0d2d982a43db24ce9534ba7 sakeer <sakeer@syscontech.in> 1520855076 +0530	pull origin master: Merge made by the 'recursive' strategy.
+7d22d12a697aa1fce0d2d982a43db24ce9534ba7 4c66470cc45cc8bb384ebd21417b79ce1d1af216 sakeer <sakeer@syscontech.in> 1520862076 +0530	pull origin master: Fast-forward
+4c66470cc45cc8bb384ebd21417b79ce1d1af216 5ef451d4de8893b7985c43a0d77051f3030a31d5 sakeer <sakeer@syscontech.in> 1520863858 +0530	commit: manager code
+5ef451d4de8893b7985c43a0d77051f3030a31d5 ef2d58c0756d39f79c6cf8a1c88862b1062da2e9 sakeer <sakeer@syscontech.in> 1520864830 +0530	commit: manager code
+ef2d58c0756d39f79c6cf8a1c88862b1062da2e9 3b8a620235ca010e1657bbc242362f915e4811df sakeer <sakeer@syscontech.in> 1520920197 +0530	commit: time zone
+3b8a620235ca010e1657bbc242362f915e4811df bffc7cf7128b50666594082a4cd0cbc7f9e7b3b8 sakeer <sakeer@syscontech.in> 1520921326 +0530	commit: time zone
+bffc7cf7128b50666594082a4cd0cbc7f9e7b3b8 6d94b27be909565dbcea388ce274ffa55ec39bf0 sakeer <sakeer@syscontech.in> 1520923147 +0530	commit: time zone
+6d94b27be909565dbcea388ce274ffa55ec39bf0 faa5e94308812e204d2d92ab0f1dcde7f04df9d0 sakeer <sakeer@syscontech.in> 1520924244 +0530	commit: time zone
+faa5e94308812e204d2d92ab0f1dcde7f04df9d0 e582be2be783440790e8e29f06bfa0dc2e53b2b5 sakeer <sakeer@syscontech.in> 1520932927 +0530	commit: time zone setup
+e582be2be783440790e8e29f06bfa0dc2e53b2b5 09a9d72bbe4d54a758c0d9e70ff6ccaae903b4b6 sakeer <sakeer@syscontech.in> 1520936232 +0530	commit: bag time
+09a9d72bbe4d54a758c0d9e70ff6ccaae903b4b6 006d2e711b5f68bd54e6ee71fa67a0f3eee7be69 sakeer <sakeer@syscontech.in> 1520940026 +0530	commit: add time z
+006d2e711b5f68bd54e6ee71fa67a0f3eee7be69 c6ab4ee7e5df65c3144bcf353e9b3758975c56cf sakeer <sakeer@syscontech.in> 1520944169 +0530	commit: history
+c6ab4ee7e5df65c3144bcf353e9b3758975c56cf 355a688c3be90bd2f4355365881040f20e5ac7a8 sakeer <sakeer@syscontech.in> 1520945385 +0530	commit: history
+355a688c3be90bd2f4355365881040f20e5ac7a8 2346d754bd6b143e0d073568caf29a9a525425b2 sakeer <sakeer@syscontech.in> 1520948314 +0530	commit: delivery reqyeste'
+2346d754bd6b143e0d073568caf29a9a525425b2 fa2d172419275fa8712794dc129b0ed3f3ed6e3b sakeer <sakeer@syscontech.in> 1520951009 +0530	commit: deleuvery reqesute
+fa2d172419275fa8712794dc129b0ed3f3ed6e3b 319f3a7a3f5520128e3009864740baba70f090f7 sakeer <sakeer@syscontech.in> 1520953164 +0530	commit: requested
+319f3a7a3f5520128e3009864740baba70f090f7 e66f6a0006479a6c02fb36638420db9956d201a2 sakeer <sakeer@syscontech.in> 1520953181 +0530	commit: requested
+e66f6a0006479a6c02fb36638420db9956d201a2 b7da7726fd7cf9fd5e7e5b55487f80ba023931af sakeer <sakeer@syscontech.in> 1520955006 +0530	commit: customer request
+b7da7726fd7cf9fd5e7e5b55487f80ba023931af c70a8c6b3605be7eb5f92f270325dad113c6bbd3 sakeer <sakeer@syscontech.in> 1520955131 +0530	commit: added
+c70a8c6b3605be7eb5f92f270325dad113c6bbd3 58dbb98608dec04f8cd05fc6e48ea0c68b76fd6c sakeer <sakeer@syscontech.in> 1520955615 +0530	commit: customer request
+58dbb98608dec04f8cd05fc6e48ea0c68b76fd6c 171653e682a2f8dc1de86f7abe840b7565cabe89 sakeer <sakeer@syscontech.in> 1520955714 +0530	commit: customer request
+171653e682a2f8dc1de86f7abe840b7565cabe89 a09af321d93f65481e7261556048029b82f4b672 sakeer <sakeer@syscontech.in> 1520955799 +0530	commit: customer request
+a09af321d93f65481e7261556048029b82f4b672 fa35e312b0d8bf6bb87e47a310ef6a0594dd5b2a sakeer <sakeer@syscontech.in> 1520957497 +0530	commit: search
+fa35e312b0d8bf6bb87e47a310ef6a0594dd5b2a 52d948de05ed70fbac9fbea34ea77c105933afe7 sakeer <sakeer@syscontech.in> 1520959442 +0530	commit: search
+52d948de05ed70fbac9fbea34ea77c105933afe7 fcf8f1743d41c50ca2221cafcc57975a645c1a61 sakeer <sakeer@syscontech.in> 1520960954 +0530	commit: search
+fcf8f1743d41c50ca2221cafcc57975a645c1a61 00a9bf3a4bc954f34886e102dc837d69f5536b2d sakeer <sakeer@syscontech.in> 1520961833 +0530	commit: user search
+00a9bf3a4bc954f34886e102dc837d69f5536b2d 6defe8b6b4eb77e840cc275c89f9d397e8e03c4c sakeer <sakeer@syscontech.in> 1520998675 +0530	commit: zone id get last
+6defe8b6b4eb77e840cc275c89f9d397e8e03c4c 358e526ac7184ac631a28fa08a7f2514f3c53589 sakeer <sakeer@syscontech.in> 1521003703 +0530	commit: pagination
+358e526ac7184ac631a28fa08a7f2514f3c53589 6bc5be470652eed964f8ae59b1f91afa676933af sakeer <sakeer@syscontech.in> 1521005841 +0530	commit: customer requested history
+6bc5be470652eed964f8ae59b1f91afa676933af 07e4e5400d9ffe1c784c8b9f6651b2325742cb7d sakeer <sakeer@syscontech.in> 1521007310 +0530	commit: serach
+07e4e5400d9ffe1c784c8b9f6651b2325742cb7d ecfd411a721dcb5dd552c099ff697d95978953d5 sakeer <sakeer@syscontech.in> 1521023085 +0530	pull origin master: Fast-forward
+ecfd411a721dcb5dd552c099ff697d95978953d5 5923d85208747f6ce4f802399f2403128415371b sakeer <sakeer@syscontech.in> 1521032751 +0530	pull origin master: Fast-forward
+5923d85208747f6ce4f802399f2403128415371b cb79094e94d1becea3ba945695a5ff10eae6f776 sakeer <sakeer@syscontech.in> 1521103228 +0530	commit: added file
+cb79094e94d1becea3ba945695a5ff10eae6f776 0c20ad7ad5682e28bddbf7a80764a1eb8c445c63 sakeer <sakeer@syscontech.in> 1521103259 +0530	commit: customer request
+0c20ad7ad5682e28bddbf7a80764a1eb8c445c63 c6a5fcc95adc4ed64187c3237140b4abcc98e1a2 sakeer <sakeer@syscontech.in> 1521103321 +0530	pull origin master: Merge made by the 'recursive' strategy.
+c6a5fcc95adc4ed64187c3237140b4abcc98e1a2 84eb65d7f47e33cc444302a56c4db0feccc9df58 sakeer <sakeer@syscontech.in> 1521104103 +0530	commit: added
+84eb65d7f47e33cc444302a56c4db0feccc9df58 320bd8a31d9b339f3580890513c8f339e50ea6dc sakeer <sakeer@syscontech.in> 1521104125 +0530	commit: cutomer equested
+320bd8a31d9b339f3580890513c8f339e50ea6dc 5a1e80800f585e0f35a41c6bc407f232d6685389 sakeer <sakeer@syscontech.in> 1521106264 +0530	commit: push
+5a1e80800f585e0f35a41c6bc407f232d6685389 cc7e4aab68935a67adf3a5f9a4db56ddcc8f2916 sakeer <sakeer@syscontech.in> 1521107765 +0530	commit: push
+cc7e4aab68935a67adf3a5f9a4db56ddcc8f2916 b77d5f029178139ca17ee474e8c754930e13f18b sakeer <sakeer@syscontech.in> 1521107794 +0530	pull origin master: Merge made by the 'recursive' strategy.
+b77d5f029178139ca17ee474e8c754930e13f18b cfb5cf48aadbf71328e406ec082f7806cc35b984 sakeer <sakeer@syscontech.in> 1521108914 +0530	commit: push
+cfb5cf48aadbf71328e406ec082f7806cc35b984 afa4e47be7ad5c551f94d45f718349d5b99da39a sakeer <sakeer@syscontech.in> 1521108942 +0530	pull origin master: Merge made by the 'recursive' strategy.
+afa4e47be7ad5c551f94d45f718349d5b99da39a b3c988194ea6fa91d75a127dd2f538d43d50603a sakeer <sakeer@syscontech.in> 1521109246 +0530	commit: push
+b3c988194ea6fa91d75a127dd2f538d43d50603a 6b4cddfc064c8fe42a31f6b9d331285b23776c95 sakeer <sakeer@syscontech.in> 1521109768 +0530	commit: push
+6b4cddfc064c8fe42a31f6b9d331285b23776c95 4cc750b8ae6c987732477dc20f5c739ab98497b5 sakeer <sakeer@syscontech.in> 1521109797 +0530	pull origin master: Merge made by the 'recursive' strategy.
+4cc750b8ae6c987732477dc20f5c739ab98497b5 1fec22e7a435d7b03929d231a6c18e188bccfac2 sakeer <sakeer@syscontech.in> 1521111243 +0530	commit: push
+1fec22e7a435d7b03929d231a6c18e188bccfac2 c4cbd8b36c2f52e29dc4818c7ade37a08a618bfc sakeer <sakeer@syscontech.in> 1521117300 +0530	pull origin master: Fast-forward
+c4cbd8b36c2f52e29dc4818c7ade37a08a618bfc 836acd8b3e91a61c923d2e57f97337c883166ed4 sakeer <sakeer@syscontech.in> 1521117411 +0530	commit: push
+836acd8b3e91a61c923d2e57f97337c883166ed4 508babaf515b2a794b415d223c0ea293dc73d23b sakeer <sakeer@syscontech.in> 1521132502 +0530	commit: status in admin
+508babaf515b2a794b415d223c0ea293dc73d23b 844eedf72ffc95fe563ccc9e4a7ecd09d3aaa6c4 sakeer <sakeer@syscontech.in> 1521132644 +0530	pull origin master: Merge made by the 'recursive' strategy.
+844eedf72ffc95fe563ccc9e4a7ecd09d3aaa6c4 5756cd285738fc05ec4eebe91a313a270daae308 sakeer <sakeer@syscontech.in> 1521138028 +0530	commit: bag history
+5756cd285738fc05ec4eebe91a313a270daae308 77b64cbd1c42796e3aab94b31a14b590b3042081 sakeer <sakeer@syscontech.in> 1521145943 +0530	commit: push
+77b64cbd1c42796e3aab94b31a14b590b3042081 5179c07de2af3646f3070da910ee60a49fca75ae sakeer <sakeer@syscontech.in> 1521145960 +0530	commit: push
+5179c07de2af3646f3070da910ee60a49fca75ae ae712ac4c3db01f6cdb6b52a00b17c757c14ade8 sakeer <sakeer@syscontech.in> 1521147010 +0530	commit: push msg
+ae712ac4c3db01f6cdb6b52a00b17c757c14ade8 006259e1623f7863bddecf1dad94bf59dd991e3b sakeer <sakeer@syscontech.in> 1521147840 +0530	commit: push message for all mobiles
+006259e1623f7863bddecf1dad94bf59dd991e3b f0a782ab1fa5ee5109ede74345c5fb89e8665f56 sakeer <sakeer@syscontech.in> 1521148415 +0530	commit: push message for all mobiles
+f0a782ab1fa5ee5109ede74345c5fb89e8665f56 5a0333e7a19e481634aa930178c3972e54b297c8 sakeer <sakeer@syscontech.in> 1521148433 +0530	commit: push message for all mobiles
+5a0333e7a19e481634aa930178c3972e54b297c8 7e1472960e5604f51e970da87d0c6c1ab3606b51 sakeer <sakeer@syscontech.in> 1521148868 +0530	commit: push
+7e1472960e5604f51e970da87d0c6c1ab3606b51 21147afcafdbe8d6c6decf6531080cb78c76cf3f sakeer <sakeer@syscontech.in> 1521149022 +0530	commit: push
+21147afcafdbe8d6c6decf6531080cb78c76cf3f 699af9debb273cc7c5909b4af20f0bac37fe9bf3 sakeer <sakeer@syscontech.in> 1521149365 +0530	commit: push
+699af9debb273cc7c5909b4af20f0bac37fe9bf3 e0a82e640062564907c786fadbce2758980d9a6f sakeer <sakeer@syscontech.in> 1521149580 +0530	commit: push
+e0a82e640062564907c786fadbce2758980d9a6f bb812d243bbd270907c8c29d6763b3b757269840 sakeer <sakeer@syscontech.in> 1521149757 +0530	commit: push
+bb812d243bbd270907c8c29d6763b3b757269840 7fee16d0bdca189b43cc4ac8355ce330c9d18951 sakeer <sakeer@syscontech.in> 1521149858 +0530	commit: push
+7fee16d0bdca189b43cc4ac8355ce330c9d18951 a6e6c97442e1c0659fe9cddfc3a5b651464a8670 sakeer <sakeer@syscontech.in> 1521150138 +0530	commit: push
+a6e6c97442e1c0659fe9cddfc3a5b651464a8670 ce154f581ed4422f5c2d7a3d7bbcbacd7effdf20 sakeer <sakeer@syscontech.in> 1521150230 +0530	commit: push
+ce154f581ed4422f5c2d7a3d7bbcbacd7effdf20 2e42b3ef9c2d105d2b93f0134694fc0e14d78ad8 sakeer <sakeer@syscontech.in> 1521150893 +0530	commit: push
+2e42b3ef9c2d105d2b93f0134694fc0e14d78ad8 0dbec943c64225fbfb8748252393286050cb9785 sakeer <sakeer@syscontech.in> 1521153503 +0530	commit: destination issue
+0dbec943c64225fbfb8748252393286050cb9785 95542588354118bf0d7b316449a5c179948550cb sakeer <sakeer@syscontech.in> 1521155360 +0530	commit: push details
+95542588354118bf0d7b316449a5c179948550cb a27c00567c93efb24854fe4c5bc8d74e47efca4c sakeer <sakeer@syscontech.in> 1521155929 +0530	commit: push details
+a27c00567c93efb24854fe4c5bc8d74e47efca4c 6655f3a816c5279a2b701544bc9db074a8623033 sakeer <sakeer@syscontech.in> 1521156229 +0530	commit: push details
+6655f3a816c5279a2b701544bc9db074a8623033 c3fd6a1dc3a0a5e257ae2bdd777221485662867d sakeer <sakeer@syscontech.in> 1521182500 +0530	commit: added
+c3fd6a1dc3a0a5e257ae2bdd777221485662867d ebf8fef0d175f993ba306c3a38b72fe039ccbd93 sakeer <sakeer@syscontech.in> 1521182526 +0530	commit: added dev id in push msg
+ebf8fef0d175f993ba306c3a38b72fe039ccbd93 d4860c6060e23abe488376ec49230e431442ad8a sakeer <sakeer@syscontech.in> 1521182583 +0530	pull origin master: Merge made by the 'recursive' strategy.
+d4860c6060e23abe488376ec49230e431442ad8a 65771476ebb819002d6a94ac1a74e2e53afc6a60 sakeer <sakeer@syscontech.in> 1521184210 +0530	commit: push msg
+65771476ebb819002d6a94ac1a74e2e53afc6a60 67d59d7b84288c523a7e6a8e311444de0f8d308c sakeer <sakeer@syscontech.in> 1521184215 +0530	commit: push msg
+67d59d7b84288c523a7e6a8e311444de0f8d308c 63dc149b26f09f52fed505e2fe309d71c88c592e sakeer <sakeer@syscontech.in> 1521191907 +0530	commit: zone list
+63dc149b26f09f52fed505e2fe309d71c88c592e d98f874ee00af1579101c8aa14938500391d8417 sakeer <sakeer@syscontech.in> 1521193649 +0530	commit: push msg desc
+d98f874ee00af1579101c8aa14938500391d8417 3f6cba1bfaad63915ade1736ac5302a7cc895f77 sakeer <sakeer@syscontech.in> 1521448413 +0530	commit: send push to zone
+3f6cba1bfaad63915ade1736ac5302a7cc895f77 adf9fa3ac92003f500fbf5683b6d99c52ef08c80 sakeer <sakeer@syscontech.in> 1521456390 +0530	commit: bag info
+adf9fa3ac92003f500fbf5683b6d99c52ef08c80 0a3dff1b6c0e097e120267fd85f93f245ac38d13 sakeer <sakeer@syscontech.in> 1521456643 +0530	commit: bag info
+0a3dff1b6c0e097e120267fd85f93f245ac38d13 e6d1e8cd3ae87e3a792524d9fab50b06c789f271 sakeer <sakeer@syscontech.in> 1521458324 +0530	commit: zone push
+e6d1e8cd3ae87e3a792524d9fab50b06c789f271 d9147c754b477d3dfdf686994a93da7c9332fc6d sakeer <sakeer@syscontech.in> 1521458423 +0530	commit: bag info
+d9147c754b477d3dfdf686994a93da7c9332fc6d 0381b55358b77982b57e4324678f990da44ad214 sakeer <sakeer@syscontech.in> 1521462641 +0530	commit: psuh
+0381b55358b77982b57e4324678f990da44ad214 aef3ce6884dcb424d07f6842b87041dd8352e7a5 sakeer <sakeer@syscontech.in> 1521541004 +0530	commit: psuh
+aef3ce6884dcb424d07f6842b87041dd8352e7a5 316ddfa28539c9010f08ad13f140bc705e60ebbe sakeer <sakeer@syscontech.in> 1521542089 +0530	commit: pish
+316ddfa28539c9010f08ad13f140bc705e60ebbe 5aafa2ecd34836ab1f756eab37247db066cc91aa sakeer <sakeer@syscontech.in> 1521618259 +0530	pull origin master: Fast-forward
+5aafa2ecd34836ab1f756eab37247db066cc91aa 65195cc2eaf60a867b7c47faacb65e5dbeebf533 sakeer <sakeer@syscontech.in> 1521618811 +0530	commit: ba info
+65195cc2eaf60a867b7c47faacb65e5dbeebf533 d9a7addd27250f93086c43e153ee34aa854c3a4d sakeer <sakeer@syscontech.in> 1521620349 +0530	commit: bag name in bag list
+d9a7addd27250f93086c43e153ee34aa854c3a4d fdafb71e7ecedce5365e2139465004dfe64819d1 sakeer <sakeer@syscontech.in> 1521621644 +0530	commit: bag name in bag list
+fdafb71e7ecedce5365e2139465004dfe64819d1 6f9aa96b314bba6ba9931abac930e2a32158d141 sakeer <sakeer@syscontech.in> 1521623515 +0530	commit: search by qr name
+6f9aa96b314bba6ba9931abac930e2a32158d141 495261327da874e8883594764f0aa645e9830f31 sakeer <sakeer@syscontech.in> 1521625174 +0530	commit: search by qr name
+495261327da874e8883594764f0aa645e9830f31 d903ade7ffc8226165afe6ab84d8ab619abdcd46 sakeer <sakeer@syscontech.in> 1521626037 +0530	commit: search by qr nam
+d903ade7ffc8226165afe6ab84d8ab619abdcd46 69d8393996ea7761348d3ea8c45b1a2c8592dbe6 sakeer <sakeer@syscontech.in> 1521629114 +0530	pull origin master: Fast-forward
+69d8393996ea7761348d3ea8c45b1a2c8592dbe6 ec3d6511e04129c8c45acb60ab8e082445a325fe sakeer <sakeer@syscontech.in> 1521632912 +0530	commit: bag search
+ec3d6511e04129c8c45acb60ab8e082445a325fe 1539e268270943101790262ed454de062c970aa6 sakeer <sakeer@syscontech.in> 1521634276 +0530	pull origin master: Fast-forward
+1539e268270943101790262ed454de062c970aa6 6143d3e1fd29b42a5cd40227f2fb47ba1904294d sakeer <sakeer@syscontech.in> 1521641686 +0530	commit: zones list in details and login
+6143d3e1fd29b42a5cd40227f2fb47ba1904294d ee4702c67882860742245f07c002a716b38410d9 sakeer <sakeer@syscontech.in> 1521641720 +0530	pull origin master: Merge made by the 'recursive' strategy.
+ee4702c67882860742245f07c002a716b38410d9 88b45e54d7eb58f7e6721f87e244e72534ff8f77 sakeer <sakeer@syscontech.in> 1521642636 +0530	commit: zones list in details and login
+88b45e54d7eb58f7e6721f87e244e72534ff8f77 c508286cea4a70cadaaa2474907b92f586be1746 sakeer <sakeer@syscontech.in> 1521643062 +0530	commit: zones list in details and login
+c508286cea4a70cadaaa2474907b92f586be1746 de45a7d09abb0e0d21e7167dbc037afff7c2b034 sakeer <sakeer@syscontech.in> 1521644004 +0530	commit: zones list in details and login
+de45a7d09abb0e0d21e7167dbc037afff7c2b034 47655ae05a07cfa2cd55159cc711c09e12f04e39 sakeer <sakeer@syscontech.in> 1521645313 +0530	commit: zones list in details and login
+47655ae05a07cfa2cd55159cc711c09e12f04e39 af95c5acc40074a8ad0e3e7d717dc52d67ce4255 sakeer <sakeer@syscontech.in> 1521645545 +0530	commit: zones list
+af95c5acc40074a8ad0e3e7d717dc52d67ce4255 79273e31108d3d75d825b4afc1cb676db1fd9948 sakeer <sakeer@syscontech.in> 1521649254 +0530	commit: bag destination status
+79273e31108d3d75d825b4afc1cb676db1fd9948 009b58841b22b07828c4328aea38c408c0ca112b sakeer <sakeer@syscontech.in> 1521714218 +0530	commit: zone user list
+009b58841b22b07828c4328aea38c408c0ca112b d56170a5773fdb527862b6036392d048c1e0d7b1 sakeer <sakeer@syscontech.in> 1522238125 +0530	pull origin master: Fast-forward
+d56170a5773fdb527862b6036392d048c1e0d7b1 4c7458a9794599586aba8b8798e02b663058d4b8 sakeer <sakeer@syscontech.in> 1523075024 +0530	pull origin master: Fast-forward
