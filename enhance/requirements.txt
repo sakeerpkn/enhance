@@ -5,7 +5,7 @@ django-fcm==0.1.1
 django-filter==1.1.0
 django-qrcode==0.3
 django-widget-tweaks==1.4.1
-djangorestframework==3.7.7
+djangorestframework==3.9.1
 idna==2.6
 Markdown==2.6.11
 mysqlclient==1.3.12
