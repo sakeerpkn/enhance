@@ -1,6 +1,6 @@
 certifi==2018.1.18
 chardet==3.0.4
-Django==1.10
+Django==1.11.28
 django-fcm==0.1.1
 django-filter==1.1.0
 django-qrcode==0.3
