@@ -13,4 +13,4 @@ Pillow==5.0.0
 pytz==2018.3
 reportlab==3.4.0
 requests==2.18.4
-urllib3==1.22
+urllib3==1.26.5
